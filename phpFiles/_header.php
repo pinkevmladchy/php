@@ -1,4 +1,3 @@
-<!-- ======= Header ======= -->
 <header id="header" class="fixed-top ">
     <div class="container-fluid">
 
@@ -29,12 +28,13 @@
                                 <li><a href="#">Drop Down 4</a></li>
                             </ul>
                         </li>
-                        <li><a href="#contact">Contact</a></li>
+                        <!-- <li><a href="#contact">Contact</a></li> -->
+                        <li><a href="/labFolder/index.php">LabWork</a></li>
 
                     </ul>
                 </nav><!-- .nav-menu -->
 
-                <a href="#about" class="get-started-btn scrollto">Get Started</a>
+                <a href="/phpFiles/register.php" class="get-started-btn scrollto">Register</a>
             </div>
         </div>
 
